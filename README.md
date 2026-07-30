@@ -14,6 +14,12 @@ A premium, full-stack, AI-powered restaurant web application designed for a luxu
 
 ---
 
+## Project Showcase
+
+![FrameGrill Project Showcase](framegrill.png)
+
+---
+
 ## ✨ Features
 
 ### 🤖 AI-Powered Experience
