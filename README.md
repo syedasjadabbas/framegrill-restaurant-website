@@ -171,10 +171,3 @@ When checking out, FrameGrill generates a professionally structured message:
 *Total Amount:* $58.50
 ```
 
----
-
-## 📝 License
-Distributed under the MIT License. See [LICENSE](file:///e:/WEBS%20&%20APPS/framegrill-restaurant/LICENSE) for more information.
-
----
-<p align="center">Made with ❤️ for FrameGrill Restaurant</p>
